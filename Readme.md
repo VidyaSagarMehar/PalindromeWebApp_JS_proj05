@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Palindrome Checker web app
@@ -26,9 +26,10 @@ https://palindromewebapp.netlify.app/
 
 ## Screenshots
 
-![](./SS/Screenshot%201.png)
-![](./SS/Screenshot%202.png)
-![](./SS/Screenshot%203.png)
+![Screenshot 1](https://user-images.githubusercontent.com/92782806/211472048-76d76707-51ed-4d7b-87e4-280f3e384d43.png)
+![Screenshot 2](https://user-images.githubusercontent.com/92782806/211472059-5b7854b9-0822-410f-af74-63f5586a37ad.png)
+![Screenshot 3](https://user-images.githubusercontent.com/92782806/211472063-b7e408e3-6c3c-4beb-81ac-24a26018cdd0.png)
+
 
 
 ## Feedback
